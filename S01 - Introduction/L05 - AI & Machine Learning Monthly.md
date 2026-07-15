@@ -1,0 +1,2 @@
+**AI & Machine Learning Monthly:** Every month, I accumulate all of the best resources and articles, as well as free resources around the web for Machine Learning Engineers. If you want to stay up to date with the industry and make sure you don't miss any important news, you can check out the monthly newsletter here. [**It's completely free every month**](https://zerotomastery.io/newsletters/machine-learning-monthly/)!
+**We also have other monthly newsletters you can check out** [**here**](https://zerotomastery.io/newsletters/)**.**
